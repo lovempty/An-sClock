@@ -9,6 +9,7 @@ body{
   align-items: center;
   min-height: 100vh;
   overflow: hidden;
+  background-image: url(images/page_background.jpg);
 }
 
 .clock {
